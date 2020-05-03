@@ -6,7 +6,8 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class TestNGEx1 {
+public class ExtentReportWithGitCMD {
+	
 	@Test
 	public void m1() throws InterruptedException {
 		System.out.println("Hellow World..");
