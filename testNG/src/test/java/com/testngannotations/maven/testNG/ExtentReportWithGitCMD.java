@@ -9,7 +9,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class ExtentReportWithGitCMD {
 	
 	@Test
-	public void m1() throws InterruptedException {
+	public void createdInstance() throws InterruptedException {
 		System.out.println("Hellow World..");
 		WebDriverManager.chromedriver().setup();
 		WebDriver webdrv= new ChromeDriver();
