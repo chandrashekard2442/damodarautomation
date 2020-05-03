@@ -15,7 +15,7 @@ public class ExtentReportWithGitCMD {
 		WebDriver webdrv= new ChromeDriver();
 		webdrv.navigate().to("https://mail.google.com/");
 		
-		Thread.sleep(4000);
+		Thread.sleep(5000);
 		webdrv.quit();
 		
 	}
