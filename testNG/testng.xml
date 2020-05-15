@@ -3,7 +3,7 @@
 <suite name="Suite" parallel="none">
   <test name="Test">
   <classes>
-  	<class name="com.testngannotations.maven.testNG.TestNGEx1"/>
+  	<class name="com.testngannotations.maven.testNG.ExtentReportWithGitCMD"/>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
