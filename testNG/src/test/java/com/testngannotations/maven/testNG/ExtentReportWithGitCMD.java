@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class ExtentReportWithGitCMD {
-	//for basics of the extentreport
+	//for the basics of extent reports
 	@Test
 	public void createdInstance() throws InterruptedException {
 		System.out.println("Hellow World..");
